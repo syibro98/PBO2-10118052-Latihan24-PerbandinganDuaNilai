@@ -7,7 +7,7 @@
  * KELAS     : PBO2
  * NIM       : 10118052
  * Deskripsi Program : Program ini bertujuan untuk membandingakn antar dua nilai
- * tersebut menggunakan looping while
+ * tersebut menggunakan looping while.
  * 
  */
  ```
